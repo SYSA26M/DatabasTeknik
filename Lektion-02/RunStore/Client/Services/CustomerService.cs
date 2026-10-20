@@ -63,7 +63,8 @@ public class CustomerService : ICustomerService
             Id = reader.GetString(0),
             FirstName = reader.GetString(1),
             LastName = reader.GetString(2),
-            Email = reader.GetString(3)
+            Email = reader.GetString(3),
+            Phone = Convert.IsDBNull(reader[4]) ? "Saknas" : reader.GetString(4)
         };
     }
 }

@@ -17,6 +17,23 @@ public class ProductService : IProductService
     }
     public void Add(Product product)
     {
+        try
+        {
+            var sqlInsertString = "INSERT INTO Products(id,itemNumber,name,imageUrl,description,supplier,price)";
+            sqlInsertString += $"VALUES('{product.Id}','{product.ItemNumber}','{product.Name}','Saknas','Test','{product.SupplierName}',{product.Price});";
+
+            using SqliteConnection connection = new(_connectionString);
+            using SqliteCommand command = connection.CreateCommand();
+            command.CommandText = sqlInsertString;
+
+            connection.Open();
+
+            command.ExecuteNonQuery();
+        }
+        catch (Exception ex)
+        {
+            throw new Exception(ex.Message);
+        }
     }
 
     public List<Product> ListAll()
