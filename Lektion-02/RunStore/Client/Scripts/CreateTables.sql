@@ -1,0 +1,17 @@
+CREATE TABLE IF NOT EXISTS Customers(
+    id VARCHAR(128) PRIMARY KEY NOT NULL,
+    firstName VARCHAR(30) NOT NULL,
+    lastName VARCHAR(60) NOT NULL,
+    email VARCHAR(128) NOT NULL,
+    phone VARCHAR(15) NULL
+);
+
+CREATE TABLE IF NOT EXISTS Products(
+    id VARCHAR(128) PRIMARY KEY NOT NULL,
+    itemNumber VARCHAR(12) NOT NULL,
+    name VARCHAR(128) NOT NULL,
+    imageUrl VARCHAR(128) NULL,
+    description VARCHAR(512) NULL,
+    supplier VARCHAR(30) NULL,
+    price INTEGER NOT NULL
+);
