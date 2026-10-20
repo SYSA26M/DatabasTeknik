@@ -1,0 +1,101 @@
+[
+  {
+    "id": "234d1eaaa87149429b0bbd6e8dc759c0",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "imageUrl": "https://res.cloudinary.com/softtech-dev/image/upload/v1786556514/shoe-1_qig4ut.jpg",
+    "itemNumber": "1000",
+    "name": "Core 2000",
+    "price": 1295,
+    "supplierName": "Company"
+  },
+  {
+    "id": "40f6e853ffb2424bb3eb652ba03576f2",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "imageUrl": "https://res.cloudinary.com/softtech-dev/image/upload/v1786556530/shoe-3_qbzcwy.jpg",
+    "itemNumber": "1002",
+    "name": "Gel 27",
+    "price": 2295,
+    "supplierName": "Company"
+  },
+  {
+    "id": "7a62c46d3a4b4ac4a4133ba66e47b6ec",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "imageUrl": "https://res.cloudinary.com/softtech-dev/image/upload/v1786556497/jacket-1_rio6db.jpg",
+    "itemNumber": "1009",
+    "name": "Jacket",
+    "price": 1495,
+    "supplierName": "Company"
+  },
+  {
+    "id": "7b460cb714334dafa88a3bfc28388555",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "imageUrl": "https://res.cloudinary.com/softtech-dev/image/upload/v1786556531/t-shirt-2_gg3ags.jpg",
+    "itemNumber": "1005",
+    "name": "Limited Running t-shirt",
+    "price": 385,
+    "supplierName": "Company"
+  },
+  {
+    "id": "f31656af57914954a59269e2ff0a8da9",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "imageUrl": "https://res.cloudinary.com/softtech-dev/image/upload/v1786556532/t-shirt-3_uqcb6b.jpg",
+    "itemNumber": "1006",
+    "name": "Road Black t-shirt",
+    "price": 495,
+    "supplierName": "Company"
+  },
+  {
+    "id": "b626e20836c34ee0b6c5156ee41130e5",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "imageUrl": "https://res.cloudinary.com/softtech-dev/image/upload/v1786556531/t-shirt-1_p55bwy.jpg",
+    "itemNumber": "1004",
+    "name": "Road White t-shirt",
+    "price": 495,
+    "supplierName": "Company"
+  },
+  {
+    "id": "c352647dd9d641408a8afe289c8286c6",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "imageUrl": "https://res.cloudinary.com/softtech-dev/image/upload/v1786556531/shoe-4_lrv51e.jpg",
+    "itemNumber": "1003",
+    "name": "Sonoma 7GTX",
+    "price": 2295,
+    "supplierName": "Company"
+  },
+  {
+    "id": "7f5f6b47bf474f6c9c6dea38f7af192e",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "imageUrl": "https://res.cloudinary.com/softtech-dev/image/upload/v1786556530/shoe-2_alelr0.jpg",
+    "itemNumber": "1001",
+    "name": "Trail 25",
+    "price": 1895,
+    "supplierName": "Company"
+  },
+  {
+    "id": "ed9528f716d5418a92e349b90bc7c509",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "imageUrl": "https://res.cloudinary.com/softtech-dev/image/upload/v1786556547/vest-1_e4qwig.jpg",
+    "itemNumber": "1007",
+    "name": "Vest pro",
+    "price": 895,
+    "supplierName": "Company"
+  },
+  {
+    "id": "b36264a01e9147cd845157c0b9b000e9",
+    "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "imageUrl": "https://res.cloudinary.com/softtech-dev/image/upload/v1786556463/vest-2_rcrjyf.jpg",
+    "itemNumber": "1008",
+    "name": "Vest unisex",
+    "price": 995,
+    "supplierName": "Company"
+  },
+  {
+    "id": "4e58d7b9-2ff6-4405-9190-7c8766246416",
+    "description": null,
+    "imageUrl": null,
+    "itemNumber": "1010",
+    "name": "Strumpor",
+    "price": 395,
+    "supplierName": "Nike"
+  }
+]

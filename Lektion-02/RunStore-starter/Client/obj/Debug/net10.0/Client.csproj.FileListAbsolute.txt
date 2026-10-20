@@ -1,0 +1,465 @@
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Client
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Client.deps.json
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Client.runtimeconfig.json
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Client.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Client.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Avalonia.Base.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Avalonia.Controls.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Avalonia.DesignerSupport.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Avalonia.Dialogs.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Avalonia.Markup.Xaml.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Avalonia.Markup.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Avalonia.Metal.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Avalonia.MicroCom.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Avalonia.OpenGL.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Avalonia.Vulkan.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Avalonia.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Avalonia.Desktop.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Avalonia.Fonts.Inter.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Avalonia.FreeDesktop.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Avalonia.FreeDesktop.AtSpi.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Avalonia.HarfBuzz.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Avalonia.Native.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Avalonia.Remote.Protocol.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Avalonia.Skia.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Avalonia.Themes.Fluent.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Avalonia.Win32.Automation.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Avalonia.Win32.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Avalonia.X11.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/AvaloniaUI.DiagnosticsSupport.Avalonia.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/CommunityToolkit.Mvvm.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/HarfBuzzSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/MicroCom.Runtime.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Microsoft.IO.RecyclableMemoryStream.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/SkiaSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/Tmds.DBus.Protocol.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/win-arm64/native/av_libglesv2.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/win-x64/native/av_libglesv2.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/win-x86/native/av_libglesv2.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/osx/native/libAvaloniaNative.dylib
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/linux-riscv64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/linux-x86/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/linux-arm/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/linux-bionic-arm64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/linux-bionic-x64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/linux-riscv64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/linux-x64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/linux-x86/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/osx/native/libSkiaSharp.dylib
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/obj/Debug/net10.0/Client.csproj.AssemblyReference.cache
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/obj/Debug/net10.0/Avalonia/Resources.Inputs.cache
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/obj/Debug/net10.0/Avalonia/resources
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/obj/Debug/net10.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/obj/Debug/net10.0/Client.AssemblyInfoInputs.cache
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/obj/Debug/net10.0/Client.AssemblyInfo.cs
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/obj/Debug/net10.0/Client.csproj.CoreCompileInputs.cache
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/obj/Debug/net10.0/Client.sourcelink.json
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/obj/Debug/net10.0/Client.csproj.Up2Date
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/obj/Debug/net10.0/Client.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/obj/Debug/net10.0/refint/Client.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/obj/Debug/net10.0/Client.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/obj/Debug/net10.0/Client.genruntimeconfig.cache
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-13/RunStore/Client/obj/Debug/net10.0/ref/Client.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Client
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Client.deps.json
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Client.runtimeconfig.json
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Client.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Client.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Avalonia.Base.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Avalonia.Controls.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Avalonia.DesignerSupport.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Avalonia.Dialogs.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Avalonia.Markup.Xaml.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Avalonia.Markup.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Avalonia.Metal.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Avalonia.MicroCom.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Avalonia.OpenGL.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Avalonia.Vulkan.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Avalonia.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Avalonia.Desktop.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Avalonia.Fonts.Inter.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Avalonia.FreeDesktop.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Avalonia.FreeDesktop.AtSpi.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Avalonia.HarfBuzz.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Avalonia.Native.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Avalonia.Remote.Protocol.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Avalonia.Skia.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Avalonia.Themes.Fluent.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Avalonia.Win32.Automation.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Avalonia.Win32.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Avalonia.X11.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/AvaloniaUI.DiagnosticsSupport.Avalonia.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/CommunityToolkit.Mvvm.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/HarfBuzzSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/MicroCom.Runtime.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Microsoft.IO.RecyclableMemoryStream.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/SkiaSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/Tmds.DBus.Protocol.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/win-arm64/native/av_libglesv2.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/win-x64/native/av_libglesv2.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/win-x86/native/av_libglesv2.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/osx/native/libAvaloniaNative.dylib
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/linux-riscv64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/linux-x86/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/linux-arm/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/linux-bionic-arm64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/linux-bionic-x64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/linux-riscv64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/linux-x64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/linux-x86/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/osx/native/libSkiaSharp.dylib
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/obj/Debug/net10.0/Client.csproj.AssemblyReference.cache
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/obj/Debug/net10.0/Avalonia/Resources.Inputs.cache
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/obj/Debug/net10.0/Avalonia/resources
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/obj/Debug/net10.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/obj/Debug/net10.0/Client.AssemblyInfoInputs.cache
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/obj/Debug/net10.0/Client.AssemblyInfo.cs
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/obj/Debug/net10.0/Client.csproj.CoreCompileInputs.cache
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/obj/Debug/net10.0/Client.sourcelink.json
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/obj/Debug/net10.0/Client.csproj.Up2Date
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/obj/Debug/net10.0/Client.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/obj/Debug/net10.0/refint/Client.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/obj/Debug/net10.0/Client.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/obj/Debug/net10.0/Client.genruntimeconfig.cache
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-14/RunStore/Client/obj/Debug/net10.0/ref/Client.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Client
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Client.deps.json
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Client.runtimeconfig.json
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Client.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Client.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Avalonia.Base.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Avalonia.Controls.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Avalonia.DesignerSupport.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Avalonia.Dialogs.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Avalonia.Markup.Xaml.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Avalonia.Markup.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Avalonia.Metal.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Avalonia.MicroCom.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Avalonia.OpenGL.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Avalonia.Vulkan.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Avalonia.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Avalonia.Desktop.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Avalonia.Fonts.Inter.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Avalonia.FreeDesktop.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Avalonia.FreeDesktop.AtSpi.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Avalonia.HarfBuzz.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Avalonia.Native.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Avalonia.Remote.Protocol.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Avalonia.Skia.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Avalonia.Themes.Fluent.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Avalonia.Win32.Automation.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Avalonia.Win32.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Avalonia.X11.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/AvaloniaUI.DiagnosticsSupport.Avalonia.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/CommunityToolkit.Mvvm.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/HarfBuzzSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/MicroCom.Runtime.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Microsoft.IO.RecyclableMemoryStream.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/SkiaSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/Tmds.DBus.Protocol.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/win-arm64/native/av_libglesv2.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/win-x64/native/av_libglesv2.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/win-x86/native/av_libglesv2.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/osx/native/libAvaloniaNative.dylib
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/linux-riscv64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/linux-x86/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/linux-arm/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/linux-bionic-arm64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/linux-bionic-x64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/linux-riscv64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/linux-x64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/linux-x86/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/osx/native/libSkiaSharp.dylib
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/obj/Debug/net10.0/Client.csproj.AssemblyReference.cache
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/obj/Debug/net10.0/Avalonia/Resources.Inputs.cache
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/obj/Debug/net10.0/Avalonia/resources
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/obj/Debug/net10.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/obj/Debug/net10.0/Client.AssemblyInfoInputs.cache
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/obj/Debug/net10.0/Client.AssemblyInfo.cs
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/obj/Debug/net10.0/Client.csproj.CoreCompileInputs.cache
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/obj/Debug/net10.0/Client.sourcelink.json
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/obj/Debug/net10.0/Client.csproj.Up2Date
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/obj/Debug/net10.0/Client.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/obj/Debug/net10.0/refint/Client.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/obj/Debug/net10.0/Client.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/obj/Debug/net10.0/Client.genruntimeconfig.cache
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-15/RunStore/Client/obj/Debug/net10.0/ref/Client.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Client
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Client.deps.json
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Client.runtimeconfig.json
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Client.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Client.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Avalonia.Base.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Avalonia.Controls.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Avalonia.DesignerSupport.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Avalonia.Dialogs.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Avalonia.Markup.Xaml.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Avalonia.Markup.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Avalonia.Metal.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Avalonia.MicroCom.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Avalonia.OpenGL.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Avalonia.Vulkan.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Avalonia.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Avalonia.Desktop.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Avalonia.Fonts.Inter.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Avalonia.FreeDesktop.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Avalonia.FreeDesktop.AtSpi.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Avalonia.HarfBuzz.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Avalonia.Native.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Avalonia.Remote.Protocol.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Avalonia.Skia.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Avalonia.Themes.Fluent.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Avalonia.Win32.Automation.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Avalonia.Win32.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Avalonia.X11.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/AvaloniaUI.DiagnosticsSupport.Avalonia.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/CommunityToolkit.Mvvm.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/HarfBuzzSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/MicroCom.Runtime.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Microsoft.IO.RecyclableMemoryStream.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/SkiaSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/Tmds.DBus.Protocol.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/win-arm64/native/av_libglesv2.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/win-x64/native/av_libglesv2.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/win-x86/native/av_libglesv2.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/osx/native/libAvaloniaNative.dylib
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/linux-riscv64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/linux-x86/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/linux-arm/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/linux-bionic-arm64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/linux-bionic-x64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/linux-riscv64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/linux-x64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/linux-x86/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/osx/native/libSkiaSharp.dylib
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/obj/Debug/net10.0/Client.csproj.AssemblyReference.cache
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/obj/Debug/net10.0/Avalonia/Resources.Inputs.cache
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/obj/Debug/net10.0/Avalonia/resources
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/obj/Debug/net10.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/obj/Debug/net10.0/Client.AssemblyInfoInputs.cache
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/obj/Debug/net10.0/Client.AssemblyInfo.cs
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/obj/Debug/net10.0/Client.csproj.CoreCompileInputs.cache
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/obj/Debug/net10.0/Client.sourcelink.json
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/obj/Debug/net10.0/Client.csproj.Up2Date
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/obj/Debug/net10.0/Client.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/obj/Debug/net10.0/refint/Client.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/obj/Debug/net10.0/Client.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/obj/Debug/net10.0/Client.genruntimeconfig.cache
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/C# Grund/GitHub/Lektion-16/RunStore/Client/obj/Debug/net10.0/ref/Client.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Client
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Client.deps.json
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Client.runtimeconfig.json
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Client.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Client.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Avalonia.Base.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Avalonia.Controls.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Avalonia.DesignerSupport.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Avalonia.Dialogs.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Avalonia.Markup.Xaml.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Avalonia.Markup.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Avalonia.Metal.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Avalonia.MicroCom.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Avalonia.OpenGL.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Avalonia.Vulkan.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Avalonia.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Avalonia.Desktop.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Avalonia.Fonts.Inter.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Avalonia.FreeDesktop.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Avalonia.FreeDesktop.AtSpi.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Avalonia.HarfBuzz.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Avalonia.Native.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Avalonia.Remote.Protocol.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Avalonia.Skia.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Avalonia.Themes.Fluent.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Avalonia.Win32.Automation.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Avalonia.Win32.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Avalonia.X11.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/AvaloniaUI.DiagnosticsSupport.Avalonia.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/CommunityToolkit.Mvvm.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/HarfBuzzSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/MicroCom.Runtime.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Microsoft.IO.RecyclableMemoryStream.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/SkiaSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/Tmds.DBus.Protocol.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/win-arm64/native/av_libglesv2.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/win-x64/native/av_libglesv2.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/win-x86/native/av_libglesv2.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/osx/native/libAvaloniaNative.dylib
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/linux-arm/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/linux-arm64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/linux-riscv64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/linux-x64/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/linux-x86/native/libHarfBuzzSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/osx/native/libHarfBuzzSharp.dylib
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/win-arm64/native/libHarfBuzzSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/win-x64/native/libHarfBuzzSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/win-x86/native/libHarfBuzzSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/linux-arm/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/linux-arm64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/linux-bionic-arm64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/linux-bionic-x64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/linux-loongarch64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/linux-musl-arm/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/linux-musl-arm64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/linux-musl-loongarch64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/linux-musl-riscv64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/linux-musl-x64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/linux-riscv64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/linux-x64/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/linux-x86/native/libSkiaSharp.so
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/osx/native/libSkiaSharp.dylib
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/obj/Debug/net10.0/Client.csproj.AssemblyReference.cache
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/obj/Debug/net10.0/Avalonia/Resources.Inputs.cache
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/obj/Debug/net10.0/Avalonia/resources
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/obj/Debug/net10.0/Client.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/obj/Debug/net10.0/Client.AssemblyInfoInputs.cache
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/obj/Debug/net10.0/Client.AssemblyInfo.cs
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/obj/Debug/net10.0/Client.csproj.CoreCompileInputs.cache
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/obj/Debug/net10.0/Client.sourcelink.json
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/obj/Debug/net10.0/Client.csproj.Up2Date
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/obj/Debug/net10.0/Client.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/obj/Debug/net10.0/refint/Client.dll
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/obj/Debug/net10.0/Client.pdb
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/obj/Debug/net10.0/Client.genruntimeconfig.cache
+/Users/michaelgustavsson/Documents/Development/Courses/Jensen/SYSÄ26M/DatabasTeknik/GitHub/Lektion-02/RunStore-starter/Client/obj/Debug/net10.0/ref/Client.dll
