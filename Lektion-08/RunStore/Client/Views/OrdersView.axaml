@@ -1,0 +1,50 @@
+<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:vm="using:Client.ViewModels"
+             mc:Ignorable="d" d:DesignWidth="1200" d:DesignHeight="768"
+             x:Class="Client.Views.OrdersView"
+             x:DataType="vm:OrdersViewModel">
+
+    <Design.DataContext>
+        <vm:OrdersViewModel></vm:OrdersViewModel>
+    </Design.DataContext>
+
+    <StackPanel>
+        <Label Classes="pageTitle" Content="{Binding PageTitle}" />
+        <Border BorderBrush="{DynamicResource ForegroundColor}" BorderThickness="0 0 0 1" Padding="0 50 0 0">
+            <!-- Rubriker -->
+            <Grid ColumnDefinitions="100,100,100,100,200,200,75,120,*">
+                <Label Grid.Column="0" Content="Ordernr" />
+                <Label Grid.Column="1" Content="Orderdatum" />
+                <Label Grid.Column="2" Content="Förnamn" />
+                <Label Grid.Column="3" Content="Efternamn" />
+                <Label Grid.Column="4" Content="E-Post" />
+                <Label Grid.Column="5" Content="Adress" />
+                <Label Grid.Column="6" Content="Postnr" />
+                <Label Grid.Column="7" Content="Postort" />
+                <Label Grid.Column="8" Content="Totalsumma" HorizontalAlignment="Right" />
+            </Grid>
+        </Border>
+        <ScrollViewer Height="400">
+            <ItemsControl Padding="0 5" ItemsSource="{Binding Orders}">
+                <ItemsControl.ItemTemplate>
+                    <DataTemplate>
+                        <Grid ColumnDefinitions="100,100,100,100,200,200,75,120,*">
+                            <Label Grid.Column="0" Content="{Binding OrderNumber}" />
+                            <Label Grid.Column="1" Content="{Binding OrderDate}" />
+                            <Label Grid.Column="2" Content="{Binding Customer.FirstName}" />
+                            <Label Grid.Column="3" Content="{Binding Customer.LastName}" />
+                            <Label Grid.Column="4" Content="{Binding Customer.Email}" />
+                            <Label Grid.Column="5" Content="{Binding Customer.AddressLine}" />
+                            <Label Grid.Column="6" Content="{Binding Customer.PostalCode}" />
+                            <Label Grid.Column="7" Content="{Binding Customer.City}" />
+                            <Label Grid.Column="8" Content="{Binding OrderValue}" HorizontalAlignment="Right" />
+                        </Grid>
+                    </DataTemplate>
+                </ItemsControl.ItemTemplate>
+            </ItemsControl>
+        </ScrollViewer>
+    </StackPanel>
+</UserControl>
