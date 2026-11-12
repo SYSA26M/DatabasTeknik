@@ -1,29 +1,44 @@
-# Uppgift 1
+## Önskemål ifrån kunden:
+Kunna navigera ifrån kundlista till en sida som listar
+kundens alla beställningar
+Om det inte finns några beställningar så ska det visa på sidan
+Finns det beställningar så ska antalet beställningar visas samt en lista
+av beställningar där följande information ska visas
+ - Ordernummer
+ - Beställningsdatum
+ - Totalsumma för beställningen
 
-1. Skapa två nya knappar i MainWindow.axaml.cs.
-1.1 En för att gå till Kunder.
-1.2 En för att gå till Beställningar.
-2.  Skapa de filer som behövs för att koppla ihop presentation med logik enligt MVVM design mönstret.
+Det ska förberedas så att man ska kunna välja en beställning och komma till en ny sida som visar detaljer om beställningen såsom
+ - produkt
+ - antal
+ - pris
+ - ev rabatt
+samt en summerad summa av varje produkt
 
----
-Applikationen ska fungera att köra igång och när vi klickar på de olika knapparna ska applikationen visa vilken information som vi kikar på.
+1.	Skapa en ny ViewModel
+	Lägg till de egenskaper som behövs
+	Skapa en konstruktor om det behövs
 
----
+2.	Skapa en View som matchar vår ViewModel
 
-# Uppgift 2
-1. Skapa en layout där menyknapparna ligger till vänster uppifrån och ner och att presentationen ligger till höger och tar upp all plats som finns kvar.
+3.	Koppla samman vår MainWindowViewModel
 
----
-Färgsättningen är helt valfri på knappar och bakgrund.
+4.	Koppla samman kundlista med MainWindowViewModel
+	Command attributet i kundlista
+	Skapa en ny kolumn för en knapp för navigeringen
 
-___
+5.	Skriver en test fråga i SQL och testkör
 
-## Färgscheman
-#### https://materialui.co/colors
+6.	När frågan fungerar så kopierar jag den och går vidare till nästa steg
 
-## Gradient tools
-#### https://cssgradient.io/
+7.	Uppdatera vårt interface ICustomerService
+	Metod ListOrders(int customerId)
 
-## Icon Fonts
-#### https://fontawesome.com/
-#### https://phosphoricons.com/
+8.	Implementerar den nya metoden i CustomerService
+
+9.	Skicka med id för vald kund i axaml filen
+
+10.	Använd id i MainWindowViewModel för att aktivera
+	en instans av CustomerOrdersViewModel
+
+11.	Skapa en variabel för CustomerService
