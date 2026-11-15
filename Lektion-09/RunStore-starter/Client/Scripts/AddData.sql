@@ -1,0 +1,14 @@
+INSERT INTO cities(city)VALUES('Stenungsund'),('Göteborg'),('Malmö');
+INSERT INTO postalcodes(postalcode,city_id)VALUES('44432',1),('44446',1),('41664',2),('21511',3);
+INSERT INTO addresses(addressline,postalcode_id)VALUES('Munkerödsvägen 15',1),('Lövhammarsvägen 30',2);
+INSERT INTO addresses(addressline,postalcode_id)VALUES('Citronfjärilsvägen 2',2);
+INSERT INTO addresstypes(name)VALUES('Billing'),('Delivery'),('Office');
+INSERT INTO customers(firstname,lastname,email)VALUES('Michael','Gustavsson','michael@mail.com'),('Eva','Olsson','eva@mail.com');
+INSERT INTO customeraddresses(customer_id,address_id,addresstype_id)VALUES(1,1,2);
+INSERT INTO customeraddresses(customer_id,address_id,addresstype_id)VALUES(2,2,2);
+INSERT INTO suppliers(name)VALUES('Asics'),('Nike');
+INSERT INTO productcategories(name)VALUES('Shoes'),('Shirts'),('Jackets'),('Vests');
+INSERT INTO products(itemnumber,name,price,supplier_id,category_id)VALUES('1000','Sko 1',1995,1,1),('1001','Sko 2',2295,2,1);
+INSERT INTO salesorder(customer_id)VALUES(1);
+INSERT INTO orderitems(order_id,product_id,quantity,price,discount)VALUES(1,1,2,1995,0);
+INSERT INTO orderitems(order_id,product_id,quantity,price,discount)VALUES(1,2,1,2295,0);

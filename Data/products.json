@@ -1,0 +1,112 @@
+[
+    {
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+        "imageUrl": "https://res.cloudinary.com/softtech-dev/image/upload/v1786556514/shoe-1_qig4ut.jpg",
+        "itemNumber": "1000",
+        "name": "Core 2000",
+        "price": 1295,
+        "supplier":
+        {
+            "supplierName": "Asics"
+        }
+    },
+    {
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+        "imageUrl": "https://res.cloudinary.com/softtech-dev/image/upload/v1786556530/shoe-3_qbzcwy.jpg",
+        "itemNumber": "1002",
+        "name": "Gel 27",
+        "price": 2295,
+        "supplier":
+        {
+            "supplierName": "Asics"
+        }
+    },
+    {
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+        "imageUrl": "https://res.cloudinary.com/softtech-dev/image/upload/v1786556497/jacket-1_rio6db.jpg",
+        "itemNumber": "1009",
+        "name": "Jacket",
+        "price": 1495,
+        "supplier":
+        {
+            "supplierName": "Nike"
+        }
+    },
+    {
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+        "imageUrl": "https://res.cloudinary.com/softtech-dev/image/upload/v1786556531/t-shirt-2_gg3ags.jpg",
+        "itemNumber": "1005",
+        "name": "Limited Running t-shirt",
+        "price": 385,
+        "supplier":
+        {
+            "supplierName": "Nike"
+        }
+    },
+    {
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+        "imageUrl": "https://res.cloudinary.com/softtech-dev/image/upload/v1786556532/t-shirt-3_uqcb6b.jpg",
+        "itemNumber": "1006",
+        "name": "Road Black t-shirt",
+        "price": 495,
+        "supplier":
+        {
+            "supplierName": "Nike"
+        }
+    },
+    {
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+        "imageUrl": "https://res.cloudinary.com/softtech-dev/image/upload/v1786556531/t-shirt-1_p55bwy.jpg",
+        "itemNumber": "1004",
+        "name": "Road White t-shirt",
+        "price": 495,
+        "supplier":
+        {
+            "supplierName": "CLN Athletics"
+        }
+    },
+    {
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+        "imageUrl": "https://res.cloudinary.com/softtech-dev/image/upload/v1786556531/shoe-4_lrv51e.jpg",
+        "itemNumber": "1003",
+        "name": "Sonoma 7GTX",
+        "price": 2295,
+        "supplier":
+        {
+            "supplierName": "Asics"
+        }
+    },
+    {
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+        "imageUrl": "https://res.cloudinary.com/softtech-dev/image/upload/v1786556530/shoe-2_alelr0.jpg",
+        "itemNumber": "1001",
+        "name": "Trail 25",
+        "price": 1895,
+        "supplier":
+        {
+            "supplierName": "Asics"
+        }
+    },
+    {
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+        "imageUrl": "https://res.cloudinary.com/softtech-dev/image/upload/v1786556547/vest-1_e4qwig.jpg",
+        "itemNumber": "1007",
+        "name": "Vest pro",
+        "price": 895,
+        "supplier":
+        {
+            "supplierName": "Swix"
+        }
+    },
+    {
+        "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+        "imageUrl": "https://res.cloudinary.com/softtech-dev/image/upload/v1786556463/vest-2_rcrjyf.jpg",
+        "itemNumber": "1008",
+        "name": "Vest unisex",
+        "price": 995,
+        "supplier":
+        {
+            "supplierName": "Swix"
+        }
+    }
+]
