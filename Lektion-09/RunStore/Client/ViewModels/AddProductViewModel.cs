@@ -51,6 +51,11 @@ public partial class AddProductViewModel : ViewModelBase
             };
 
             _productService.Add(product);
+
+            ItemNumber = string.Empty;
+            ProductName = string.Empty;
+            SelectedSupplier = null!;
+            Price = string.Empty;
         }
         catch (Exception ex)
         {

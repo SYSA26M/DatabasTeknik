@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using Client.Interfaces;
 using Client.Models;
+using MongoDB.Driver;
 
 namespace Client.Services;
 
@@ -29,6 +30,12 @@ public class SupplierService : BaseService, ISupplierService
         try
         {
             List<Supplier> suppliers = [];
+
+            var client = new MongoClient(ConnectionString);
+            var collection = client.GetDatabase("RunStore").GetCollection<Supplier>("suppliers");
+            var filter = Builders<Supplier>.Filter.Empty;
+
+            suppliers = collection.Find(filter).ToList();
 
             return suppliers;
         }
